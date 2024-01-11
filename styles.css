@@ -1,0 +1,19 @@
+/* TRELLI.CSS 1.0 January 10 by Emerson Reinhard */
+
+#top-nav-bar {
+    height: 0;
+    display: block;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 4;
+}
+
+#pagetop {
+    position: fixed;
+    z-index: 4;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    min-width: 330px;
+}
